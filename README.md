@@ -44,10 +44,12 @@ def max_marks(list1):
             max=i
     return max    
 ```
-## Sample Input and Output
-![output](./img/max_marks1.jpg) 
-
 ## Output:
+![out1](https://github.com/Ashwathm12/FindMaximum/assets/138849225/6283c062-587c-4d37-87ba-3944558b88cf)
+![out2](https://github.com/Ashwathm12/FindMaximum/assets/138849225/4af0f9eb-3212-45d1-95d2-2d284abbbb37)
+![out3](https://github.com/Ashwathm12/FindMaximum/assets/138849225/e244b0a7-e83e-4c35-b8fd-bc036c89c891)
+
+
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
